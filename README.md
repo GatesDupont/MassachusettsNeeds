@@ -1,4 +1,4 @@
 # MassachusettsNeeds
 A quick script that visualizes needs for my home state list using the internal eBird API.
 
-![alt text](MassachusettsNeeds/Screen Shot 2018-05-19 at 9.00.55 PM.png)
+![alt text](https://github.com/GatesDupont/MassachusettsNeeds/blob/master/Screen%20Shot%202018-05-19%20at%209.00.55%20PM.png)
