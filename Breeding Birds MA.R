@@ -5,8 +5,7 @@
   library(raster)
   library(jsonlite)
   library(ggplot2)
-  APIkey = "ahdcsmg7jalg"
-  
+  APIkey = "xxxxxxxxxxxx" 
   
   #--------FUNCTIONS--------
   
